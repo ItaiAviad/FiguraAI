@@ -13,7 +13,7 @@ FiguraAI is an AI project developed by Itai Aviad as a part of the Computer Scie
 
 1. Downloading the github repository in one of two ways:<br>
     * Cloning the github repository by running the following command in the cmd: `git clone https://github.com/ItaiAviad/FiguraAI.git`.
-    * Downloading a `ZIP` file which contains all the files in the repository by clicking "_Download ZIP_" in the repository page: ![Download ZIP](https://files.itik.tk/r/DownloadZIP.png)
+    * Downloading a `ZIP` file which contains all the files in the repository by clicking "_Download ZIP_" in the repository page:<br> ![Download ZIP](https://files.itik.tk/r/DownloadZIP.png)
 
     **Note**: The github repository includes:
       * All of the dataset files used in the project (~60MB). Those files are important if you want to run the code blocks that use the dataset.
