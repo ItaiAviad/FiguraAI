@@ -21,6 +21,6 @@ FiguraAI is an AI project developed by Itai Aviad as a part of the Computer Scie
       * Images connected to the project.
       * `requirements.txt` to list all the necessary python libraries. 
 
-2. Installing all the necessary python libraries from `requirements.txt` by running the following command in the cmd: <br>`pip install -r requirements.txt`.
+2. Installing all the necessary python libraries from `requirements.txt` by running the following command in the cmd: <br>`pip install -r requirements.txt`. Alternative command (if the first one doesn't work): `python -m pip install -r requirements.txt`.
 
 3. Opening the `FiguraAI.ipynb` file which includes the entire project.
