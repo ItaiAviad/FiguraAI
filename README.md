@@ -3,13 +3,19 @@
 FiguraAI is an AI project developed by Itai Aviad as a part of the Computer Science Bagrut.
 <br>It was created to help children and people with learning disabilities learn about different shapes by recognizing hand drawn shapes.
 
+## Running
+
+You can either download the github repository (steps in Downloading section) and run it on your local machine, or run the code in the `FiguraAI.ipynb` notebook in Google Colaboratory.
+
+Google Colaboratory Link: https://colab.research.google.com/drive/1DNjNpD0Z6XIEziYCPei0sAwU-n_eqpIk?usp=sharing
+
 ## Requirements
 
 * `pip` installed
 * `python3` installed
 * `git` installed - for cloning the github repository (**optional**)
 
-## Running
+## Downloading
 
 1. Downloading the github repository in one of two ways:<br>
     * Cloning the github repository by running the following command in the cmd: `git clone https://github.com/ItaiAviad/FiguraAI.git`.
